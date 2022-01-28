@@ -1,0 +1,1 @@
+E:\dev\cs\VGL\VGL\obj\Release\net6.0\VGL.csproj.AssemblyReference.cache

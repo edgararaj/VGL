@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows10.0.19041": {
+      "VGLL/0.1.0-prerelease": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows10.0.19041.0/VGLLProjection.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows10.0.19041.0/VGLLProjection.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win10-x64/native/VGLL.dll": {
+            "assetType": "native",
+            "rid": "win10-x64"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VGLL/0.1.0-prerelease": {
+      "sha512": "SJMzdhVt24ojIGOQ3REirgBsaIXg9uT7sJRxK7V7uxxAcG5ZdxlxTQBRD+rbtg+48qYeKCp3Hr2aW4K+P19W0A==",
+      "type": "package",
+      "path": "vgll/0.1.0-prerelease",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net46/VGLL.winmd",
+        "lib/net6.0-windows10.0.19041.0/VGLLProjection.dll",
+        "lib/netcoreapp3.0/VGLL.winmd",
+        "lib/uap10.0/VGLL.winmd",
+        "runtimes/win10-x64/native/VGLL.dll",
+        "vgll.0.1.0-prerelease.nupkg.sha512",
+        "vgll.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows10.0.19041": [
+      "VGLL >= 0.1.0-prerelease"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\edgar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\dev\\cs\\VGL\\VGL\\VGL.csproj",
+      "projectName": "VGL",
+      "projectPath": "E:\\dev\\cs\\VGL\\VGL\\VGL.csproj",
+      "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
+      "outputPath": "E:\\dev\\cs\\VGL\\VGL\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows10.0.19041"
+      ],
+      "sources": {
+        "E:\\dev\\cs\\VGL\\VGLLProjection\\nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows10.0.19041": {
+          "targetAlias": "net6.0-windows10.0.19041.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows10.0.19041": {
+        "targetAlias": "net6.0-windows10.0.19041.0",
+        "dependencies": {
+          "VGLL": {
+            "target": "Package",
+            "version": "[0.1.0-prerelease, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.Windows.SDK.NET.Ref",
+            "version": "[10.0.19041.22, 10.0.19041.22]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Windows.SDK.NET.Ref": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+E:\dev\cs\VGL\_build\AnyCPU\Release\VGLTest\bin\VGLTest.exe
+E:\dev\cs\VGL\_build\AnyCPU\Release\VGLTest\bin\VGLTest.deps.json
+E:\dev\cs\VGL\_build\AnyCPU\Release\VGLTest\bin\VGLTest.runtimeconfig.json
+E:\dev\cs\VGL\_build\AnyCPU\Release\VGLTest\bin\VGLTest.dll
+E:\dev\cs\VGL\_build\AnyCPU\Release\VGLTest\bin\VGLTest.pdb
+E:\dev\cs\VGL\VGLTest\obj\Release\net6.0-windows10.0.19041.0\VGLTest.csproj.AssemblyReference.cache
+E:\dev\cs\VGL\VGLTest\obj\Release\net6.0-windows10.0.19041.0\VGLTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\cs\VGL\VGLTest\obj\Release\net6.0-windows10.0.19041.0\VGLTest.AssemblyInfoInputs.cache
+E:\dev\cs\VGL\VGLTest\obj\Release\net6.0-windows10.0.19041.0\VGLTest.AssemblyInfo.cs
+E:\dev\cs\VGL\VGLTest\obj\Release\net6.0-windows10.0.19041.0\VGLTest.csproj.CoreCompileInputs.cache
+E:\dev\cs\VGL\VGLTest\obj\Release\net6.0-windows10.0.19041.0\VGLTest.csproj.CopyComplete
+E:\dev\cs\VGL\VGLTest\obj\Release\net6.0-windows10.0.19041.0\VGLTest.dll
+E:\dev\cs\VGL\VGLTest\obj\Release\net6.0-windows10.0.19041.0\refint\VGLTest.dll
+E:\dev\cs\VGL\VGLTest\obj\Release\net6.0-windows10.0.19041.0\VGLTest.pdb
+E:\dev\cs\VGL\VGLTest\obj\Release\net6.0-windows10.0.19041.0\VGLTest.genruntimeconfig.cache
+E:\dev\cs\VGL\VGLTest\obj\Release\net6.0-windows10.0.19041.0\ref\VGLTest.dll

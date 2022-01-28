@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KIthv5PLq8QIOuqenUgFkRAltKDqEvQ0Ww7ITNJEpYCq/zGvCRYb/cfJ+QWV7qSVICv2z+tDi0FfT7zWewK79g==",
+  "success": true,
+  "projectFilePath": "E:\\dev\\cs\\VGL\\VGLLProjection\\VGLLProjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edgar\\.nuget\\packages\\microsoft.windows.cswinrt\\1.4.1\\microsoft.windows.cswinrt.1.4.1.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.22\\microsoft.windows.sdk.net.ref.10.0.19041.22.nupkg.sha512"
+  ],
+  "logs": []
+}

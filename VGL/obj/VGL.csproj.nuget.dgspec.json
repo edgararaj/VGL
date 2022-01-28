@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\dev\\cs\\VGL\\VGL\\VGL.csproj": {}
+  },
+  "projects": {
+    "E:\\dev\\cs\\VGL\\VGL\\VGL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\dev\\cs\\VGL\\VGL\\VGL.csproj",
+        "projectName": "VGL",
+        "projectPath": "E:\\dev\\cs\\VGL\\VGL\\VGL.csproj",
+        "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
+        "outputPath": "E:\\dev\\cs\\VGL\\VGL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows10.0.19041"
+        ],
+        "sources": {
+          "E:\\dev\\cs\\VGL\\VGLLProjection\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows10.0.19041": {
+            "targetAlias": "net6.0-windows10.0.19041.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows10.0.19041": {
+          "targetAlias": "net6.0-windows10.0.19041.0",
+          "dependencies": {
+            "VGLL": {
+              "target": "Package",
+              "version": "[0.1.0-prerelease, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.22, 10.0.19041.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

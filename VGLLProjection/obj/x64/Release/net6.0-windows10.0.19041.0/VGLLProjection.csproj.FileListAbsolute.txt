@@ -1,0 +1,13 @@
+E:\dev\cs\VGL\_build\x64\Release\VGLLProjection\bin\VGLLProjection.deps.json
+E:\dev\cs\VGL\_build\x64\Release\VGLLProjection\bin\VGLLProjection.dll
+E:\dev\cs\VGL\_build\x64\Release\VGLLProjection\bin\VGLLProjection.pdb
+E:\dev\cs\VGL\VGLLProjection\obj\x64\Release\net6.0-windows10.0.19041.0\VGLLProjection.csproj.AssemblyReference.cache
+E:\dev\cs\VGL\VGLLProjection\obj\x64\Release\net6.0-windows10.0.19041.0\VGLLProjection.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\cs\VGL\VGLLProjection\obj\x64\Release\net6.0-windows10.0.19041.0\VGLLProjection.AssemblyInfoInputs.cache
+E:\dev\cs\VGL\VGLLProjection\obj\x64\Release\net6.0-windows10.0.19041.0\VGLLProjection.AssemblyInfo.cs
+E:\dev\cs\VGL\VGLLProjection\obj\x64\Release\net6.0-windows10.0.19041.0\VGLLProjection.csproj.CoreCompileInputs.cache
+E:\dev\cs\VGL\VGLLProjection\obj\x64\Release\net6.0-windows10.0.19041.0\VGLLProjection.csproj.CopyComplete
+E:\dev\cs\VGL\VGLLProjection\obj\x64\Release\net6.0-windows10.0.19041.0\VGLLProjection.dll
+E:\dev\cs\VGL\VGLLProjection\obj\x64\Release\net6.0-windows10.0.19041.0\refint\VGLLProjection.dll
+E:\dev\cs\VGL\VGLLProjection\obj\x64\Release\net6.0-windows10.0.19041.0\VGLLProjection.pdb
+E:\dev\cs\VGL\VGLLProjection\obj\x64\Release\net6.0-windows10.0.19041.0\ref\VGLLProjection.dll

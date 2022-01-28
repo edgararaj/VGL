@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>VGLL</id>
+    <version>0.1.0-prerelease</version>
+    <authors>Contoso Math Inc.</authors>
+    <description>A simple component with basic math operations</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows10.0.19041.0" />
+      <group targetFramework=".NETCoreApp3.0" />
+      <group targetFramework="UAP10.0" />
+      <group targetFramework=".NETFramework4.6" />
+    </dependencies>
+  </metadata>
+  <files>
+    <!--Support .NET Core 3, UAP, .NET Framework 4.6, .NET 6, C++ -->
+    <!--Architecture-netural assemblies-->
+    <file src="..\..\_build\x64\Release\VGLL\bin\VGLL\VGLL.winmd" target="lib\netcoreapp3.0\VGLL.winmd" />
+    <file src="..\..\_build\x64\Release\VGLL\bin\VGLL\VGLL.winmd" target="lib\uap10.0\VGLL.winmd" />
+    <file src="..\..\_build\x64\Release\VGLL\bin\VGLL\VGLL.winmd" target="lib\net46\VGLL.winmd" />
+    <file src="..\..\_build\x64\Release\VGLLProjection\bin\VGLLProjection.dll" target="lib\net6.0-windows10.0.19041.0\VGLLProjection.dll" />
+    <!--Architecture-specific implementation DLLs should be copied into RID-relative folders-->
+    <file src="..\..\_build\x64\Release\VGLL\bin\VGLL\VGLL.dll" target="runtimes\win10-x64\native\VGLL.dll" />
+  </files>
+</package>

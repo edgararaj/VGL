@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XhdN778H/xLlVv8bC6ymtxxwVac9kotVVUx4eB9HeUt/7nZOOuVpFBrdvroawY0oJPWFRobWh0BQJeiJE0mgLg==",
+  "success": true,
+  "projectFilePath": "E:\\dev\\cs\\VGL\\VGLTest\\VGLTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edgar\\.nuget\\packages\\vgll\\0.1.0-prerelease\\vgll.0.1.0-prerelease.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.22\\microsoft.windows.sdk.net.ref.10.0.19041.22.nupkg.sha512"
+  ],
+  "logs": []
+}

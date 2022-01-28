@@ -1,0 +1,1 @@
+E:\dev\cs\VGL\VGLTest\obj\Release\net6.0\VGLTest.csproj.AssemblyReference.cache

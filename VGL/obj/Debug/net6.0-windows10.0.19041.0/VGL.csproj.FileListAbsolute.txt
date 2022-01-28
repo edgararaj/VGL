@@ -1,0 +1,12 @@
+E:\dev\cs\VGL\_build\AnyCPU\Debug\VGL\bin\VGL.deps.json
+E:\dev\cs\VGL\_build\AnyCPU\Debug\VGL\bin\VGL.dll
+E:\dev\cs\VGL\_build\AnyCPU\Debug\VGL\bin\VGL.pdb
+E:\dev\cs\VGL\VGL\obj\Debug\net6.0-windows10.0.19041.0\VGL.csproj.AssemblyReference.cache
+E:\dev\cs\VGL\VGL\obj\Debug\net6.0-windows10.0.19041.0\VGL.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\cs\VGL\VGL\obj\Debug\net6.0-windows10.0.19041.0\VGL.AssemblyInfoInputs.cache
+E:\dev\cs\VGL\VGL\obj\Debug\net6.0-windows10.0.19041.0\VGL.AssemblyInfo.cs
+E:\dev\cs\VGL\VGL\obj\Debug\net6.0-windows10.0.19041.0\VGL.csproj.CoreCompileInputs.cache
+E:\dev\cs\VGL\VGL\obj\Debug\net6.0-windows10.0.19041.0\VGL.dll
+E:\dev\cs\VGL\VGL\obj\Debug\net6.0-windows10.0.19041.0\refint\VGL.dll
+E:\dev\cs\VGL\VGL\obj\Debug\net6.0-windows10.0.19041.0\VGL.pdb
+E:\dev\cs\VGL\VGL\obj\Debug\net6.0-windows10.0.19041.0\ref\VGL.dll
